@@ -120,7 +120,7 @@ Image:
 ## Notes
 
 - Run the commands from the project root directory.
-- Ensure the input image exists in the `digit` folder.
+- Ensure the input image exists in the `digits` folder.
 - The project is designed to run through the command line using the Python script.
 - A compatible Python version is required for TensorFlow installation.
 
