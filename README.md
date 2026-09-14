@@ -7,7 +7,7 @@ A machine learning project that recognizes handwritten digits from images using 
 - Handwritten digit classification from 0 to 9
 - Image preprocessing using OpenCV
 - Machine learning model training
-- Prediction from images stored in the `digit` folder
+- Prediction from images stored in the `digits` folder
 - Fully executable from the terminal
 
 ## Project Structure
