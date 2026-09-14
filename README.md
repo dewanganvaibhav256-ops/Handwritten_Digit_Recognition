@@ -68,7 +68,7 @@ pip install -r requirements.txt
 Execute the Python file directly from the terminal:
 
 ```bash
-python hand_written_classification.py
+python hand_written_classification.py --image digit/7.png
 ```
 
 The program will train the model and process the input image specified in the Python file.
