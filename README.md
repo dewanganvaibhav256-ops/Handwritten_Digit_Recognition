@@ -100,6 +100,11 @@ Epoch 3/3
 
 Predicted Digit: 7
 ```
+Image:
+
+<img width="693" height="172" alt="image" src="https://github.com/user-attachments/assets/b74afe3f-e591-47ca-bf95-ed33c1883aa0" />
+
+<img width="1017" height="559" alt="image" src="https://github.com/user-attachments/assets/991ac46c-7e10-4aec-82e9-1d6551156b99" />
 
 *The output may vary depending on the input image and model performance.*
 
