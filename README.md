@@ -9,7 +9,6 @@ A machine learning project that recognizes handwritten digits from images using 
 - Machine learning model training
 - Prediction from images stored in the `digit` folder
 - Fully executable from the terminal
-- No Jupyter Notebook required
 
 ## Project Structure
 
